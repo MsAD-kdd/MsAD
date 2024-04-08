@@ -1,0 +1,14 @@
+ALLASD1_cc200-pat.txt filter=lfs diff=lfs merge=lfs -text
+sim2.txt filter=lfs diff=lfs merge=lfs -text
+sim4.txt filter=lfs diff=lfs merge=lfs -text
+stand_15nodes.txt filter=lfs diff=lfs merge=lfs -text
+ALLASD1_cc200-nor.txt filter=lfs diff=lfs merge=lfs -text
+stand_200nodes.txt filter=lfs diff=lfs merge=lfs -text
+stand_50nodes.txt filter=lfs diff=lfs merge=lfs -text
+sim1.txt filter=lfs diff=lfs merge=lfs -text
+sim200.csv filter=lfs diff=lfs merge=lfs -text
+sim3.txt filter=lfs diff=lfs merge=lfs -text
+sim500.csv filter=lfs diff=lfs merge=lfs -text
+stand_10nodes.txt filter=lfs diff=lfs merge=lfs -text
+stand_500nodes.txt filter=lfs diff=lfs merge=lfs -text
+stand_5nodes.txt filter=lfs diff=lfs merge=lfs -text
